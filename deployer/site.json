@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0",
+  "name": "Stage Fixture",
+  "tokens": { "primary": "#155D4D", "background": "#FAF7EF", "text": "#193C35" },
+  "pages": [
+    {
+      "id": "home",
+      "title": "Home",
+      "slug": "home",
+      "nodes": [
+        { "id": "title", "type": "heading", "text": "Stage alpha headline", "level": 1 },
+        { "id": "intro", "type": "text", "text": "Synthetic staging copy for the disposable publication run." }
+      ]
+    }
+  ]
+}
